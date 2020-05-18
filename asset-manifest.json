@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redux-saga-counter-app/static/css/main.523f09c5.chunk.css",
+    "main.js": "/redux-saga-counter-app/static/js/main.1f01e7c9.chunk.js",
+    "main.js.map": "/redux-saga-counter-app/static/js/main.1f01e7c9.chunk.js.map",
+    "runtime-main.js": "/redux-saga-counter-app/static/js/runtime-main.ce32d4ba.js",
+    "runtime-main.js.map": "/redux-saga-counter-app/static/js/runtime-main.ce32d4ba.js.map",
+    "static/js/2.c2ddb925.chunk.js": "/redux-saga-counter-app/static/js/2.c2ddb925.chunk.js",
+    "static/js/2.c2ddb925.chunk.js.map": "/redux-saga-counter-app/static/js/2.c2ddb925.chunk.js.map",
+    "index.html": "/redux-saga-counter-app/index.html",
+    "precache-manifest.17324dbc40e80bd925c670f546a100c8.js": "/redux-saga-counter-app/precache-manifest.17324dbc40e80bd925c670f546a100c8.js",
+    "service-worker.js": "/redux-saga-counter-app/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/redux-saga-counter-app/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.c2ddb925.chunk.js.LICENSE.txt": "/redux-saga-counter-app/static/js/2.c2ddb925.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/redux-saga-counter-app/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce32d4ba.js",
+    "static/js/2.c2ddb925.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.1f01e7c9.chunk.js"
+  ]
+}
